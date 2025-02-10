@@ -1,3 +1,9 @@
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://lh3.googleusercontent.com/a/ACg8ocK0VakS3Il6GWwOCjzwDfmjW7dNTgp0Tsy2AhBAKCDd7Z-gTAo=s288-c-no">
+ <source media="(prefers-color-scheme: light)" srcset="https://lh3.googleusercontent.com/a/ACg8ocK0VakS3Il6GWwOCjzwDfmjW7dNTgp0Tsy2AhBAKCDd7Z-gTAo=s288-c-no">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
 ## Hi there 👋
 
 <!--
